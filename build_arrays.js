@@ -61,21 +61,21 @@ var letters = [ "a", "r", "r", "a", "y" ];
 
 // Create an array of Objects that represent Famous People.
 // Each Object should have a Name, Age, and their Profession as properties
-
+var famous = {president : "lincoln", actor : "jim carey", presidentwife : "nancy reagan", comedian : "bob hope"};
 
 // Create an array of songs you'd like Jon to add to the playlist of music 
 // to listen to in class.  Each song should be an object with at least 
 // a title and an artist.
-
+var songs = { eltonJohn : "rocket man", nirvana : "smells like teen spirit", kanye : "diamonds", rjd2 : "ghostwriter"};
 
 // Create an array of functions. Define any functions you want, they can 
 // be anything! But make sure the syntax is correct :D
-
+var functions = { fun1 : function1(), fun2 : function2(), fun3 : function3()};
 
 // Create an array of Sublime shortcuts.  Each item should have a keystroke 
 // combination and a textual description of what the key combination does. 
 // You can find Sublime Text Shortcuts by traversing the Sublime Text's GUI
 // e.g. File Menu options.
-
+var shortcuts = { load : "subl .", find : "cmd F", select : "shift and arrows"};
 
 
